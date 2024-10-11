@@ -1,4 +1,5 @@
 .container {
+  margin: 1;
   background: dodgerblue;
   border: 4px solid midnightblue;
   width: 400px;
@@ -12,4 +13,10 @@
   border: 6px solid maroon;
   width: 80px;
   height: 80px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
