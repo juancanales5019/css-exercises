@@ -1,5 +1,6 @@
 body {
   font-family: 'Courier New', Courier, monospace;
+  align-items: center;
 }
 
 img {
@@ -37,5 +38,5 @@ img {
 }
 
 .element {
-  width: 200px;
+  max-width: 200px;
 }
